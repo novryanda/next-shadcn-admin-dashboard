@@ -103,9 +103,8 @@ export const sidebarItems: NavGroup[] = [
       },
       {
         title: "Chat",
-        url: "/dashboard/coming-soon",
+        url: "/dashboard/chat",
         icon: MessageSquare,
-        comingSoon: true,
       },
       {
         title: "Calendar",
@@ -115,9 +114,8 @@ export const sidebarItems: NavGroup[] = [
       },
       {
         title: "Kanban",
-        url: "/dashboard/coming-soon",
+        url: "/dashboard/kanban",
         icon: Kanban,
-        comingSoon: true,
       },
       {
         title: "Invoice",
@@ -132,9 +130,8 @@ export const sidebarItems: NavGroup[] = [
       },
       {
         title: "Roles",
-        url: "/dashboard/coming-soon",
+        url: "/dashboard/roles",
         icon: Lock,
-        comingSoon: true,
       },
       {
         title: "Authentication",
